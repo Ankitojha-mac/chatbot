@@ -1,0 +1,14 @@
+{
+  "faqs": [
+    {"question": "What is your return policy?", "answer": "We offer a 30-day return policy for unused items in original packaging."},
+    {"question": "How long does shipping take?", "answer": "Standard shipping: 5-7 days. Express: 2-3 days."},
+    {"question": "What payment methods do you accept?", "answer": "We accept Visa, MasterCard, PayPal, and Apple Pay."},
+    {"question": "How can I track my order?", "answer": "You'll receive a tracking number via email once shipped."},
+    {"question": "Do you offer international shipping?", "answer": "Yes, we ship to over 50 countries worldwide."},
+    {"question": "How do I reset my password?", "answer": "Click 'Forgot Password' on login page and follow the email link."},
+    {"question": "Can I cancel my order?", "answer": "Orders can be cancelled within 2 hours of placement."},
+    {"question": "How do I contact support?", "answer": "Email support@example.com or call 1-800-123-4567."},
+    {"question": "Do you offer discounts?", "answer": "Sign up for our newsletter for exclusive discounts."},
+    {"question": "What if my item arrives damaged?", "answer": "Contact us within 48 hours for free replacement or refund."}
+  ]
+}
