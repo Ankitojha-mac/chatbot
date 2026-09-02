@@ -1,4 +1,9 @@
 from flask import Flask, render_template, request, jsonify
+import numpy as np 
+import pandas as pd
+import matplotlib.pyplot as plt
+
+
 from chatbot import FAQChatbot
 
 app = Flask(__name__,template_folder='.')
